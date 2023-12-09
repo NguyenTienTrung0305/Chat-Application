@@ -1,0 +1,13 @@
+.myButton {
+    -fx-background-color: #99FFFF;
+    -fx-cursor: hand;
+    -fx-transition: -fx-translate-y 0.2s ease-out;
+}
+
+.myButton:hover {
+    -fx-background-color: #8FBC8F;
+}
+
+.myButton:selected {
+    -fx-background-color: #B0C4DE;
+}
